@@ -62,7 +62,7 @@ nav ul li {
 }
 .col{
     flex:50%;
-    position: relative;
+    
     text-align: center;
     color: white;
 }
